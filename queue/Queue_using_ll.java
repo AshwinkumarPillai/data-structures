@@ -38,7 +38,7 @@ public class Queue_using_ll<T> implements Iterable<T> {
     }
 
     // deque = poll
-    public T deque(T data) {
+    public T deque() {
         if (isEmpty())
             throw new RuntimeException("Queue is empty");
         return list.removeFirst();
