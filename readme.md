@@ -36,7 +36,8 @@ You need a JDK installed on your local machine (jdk-8 or higher recommended).
 - Heap
   - [Binary heap (Integer Only)](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap.java)
   - [Binary heap (Generic)](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap_generic.java)
-
+  - [Binary heap (Enhanced Generic) with HashMap](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap_generic_Map.java)
+  
 ## Acknowledgement
 
 Inspired by William Fiset.
