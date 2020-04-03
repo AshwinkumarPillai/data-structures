@@ -24,15 +24,15 @@ You need a JDK installed on your local machine (jdk-8 or higher recommended).
 
 - [Dynamic Array](https://github.com/AshwinkumarPillai/data-structures/blob/master/dynamic_array/DynamicArray.java)
 - Linked List
-  - [Singly Linked list](https://github.com/AshwinkumarPillai/dataStructures/blob/master/linked_lists/Singly_linked_list.java)
+  - [Singly Linked list](https://github.com/AshwinkumarPillai/data-structures/blob/master/linked_lists/Singly_linked_list.java)
   - [Doubly Linked list](https://github.com/AshwinkumarPillai/data-structures/blob/master/linked_lists/Doubly_linked_list.java)
 - Stack
-  - [Stack using Static array](https://github.com/AshwinkumarPillai/dataStructures/blob/master/stack/Stack.java)
-  - [Stack using linked list](https://github.com/AshwinkumarPillai/dataStructures/blob/master/stack/Stack_using_ll.java)
+  - [Stack using Static array](https://github.com/AshwinkumarPillai/data-structures/blob/master/stack/Stack.java)
+  - [Stack using linked list](https://github.com/AshwinkumarPillai/data-structures/blob/master/stack/Stack_using_ll.java)
 - Queue
-  - [Queue using static array](https://github.com/AshwinkumarPillai/dataStructures/blob/master/queue/Queue.java)
-  - [Queue using linked list](https://github.com/AshwinkumarPillai/dataStructures/blob/master/queue/Queue_using_ll.java)
-  - [Priority Queue using heap](https://github.com/AshwinkumarPillai/dataStructures/blob/master/queue/PriorityQueue._using_heap.java)
+  - [Queue using static array](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/Queue.java)
+  - [Queue using linked list](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/Queue_using_ll.java)
+  - [Priority Queue using heap](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/PriorityQueue._using_heap.java)
 - Heap
   - [Binary heap (Integer Only)](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap.java)
   - [Binary heap (Generic)](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap_generic.java)
