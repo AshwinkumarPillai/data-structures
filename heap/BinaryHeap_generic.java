@@ -88,7 +88,20 @@ public class BinaryHeap_generic<T extends Comparable<T>> {
         return removeAt(0);
     }
 
-    public T removeAt(int index) {
+    public boolean remove(T data) {
+        if (data == null)
+            return false;
+        for (int i = 0; i < size; i++) {
+            if (data.equals(heap.get(i))) {
+                removeAt(i);
+                return true;
+            }
+            ;
+        }
+        return false;
+    }
+
+    private T removeAt(int index) {
         if (isEmpty())
             return null;
         size--;
