@@ -8,6 +8,8 @@ import java.util.TreeSet;
 /**
  * A binary heap implementation using list and enhanced with Hash Map.
  *
+ * This is also used for Priority Queue (hence the redirect)
+ * 
  * @author Ashwinkumar Pillai, ashwinfury1@gmail.com
  */
 
