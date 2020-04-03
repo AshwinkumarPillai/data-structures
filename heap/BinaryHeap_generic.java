@@ -6,6 +6,7 @@ import java.util.List;
  *
  * @author Ashwinkumar Pillai, ashwinfury1@gmail.com
  */
+
 public class BinaryHeap_generic<T extends Comparable<T>> {
     private int capacity, size = 0;
     private List<T> heap = null;
@@ -22,6 +23,12 @@ public class BinaryHeap_generic<T extends Comparable<T>> {
     public BinaryHeap_generic(T[] elements) {
         size = capacity = elements.length;
         heap = new ArrayList<T>(capacity);
+
+        for (int i = 0; i < size; i++)
+            heap.add(elements[i]);
+
+        for (int i = Math.max(0, (size / 2) - 1); i >= 0; i--)
+            sink(i);
     }
 
     public int size() {
@@ -30,6 +37,12 @@ public class BinaryHeap_generic<T extends Comparable<T>> {
 
     public boolean isEmpty() {
         return size == 0;
+    }
+
+    public void clear() {
+        for (int i = 0; i < capacity; i++)
+            heap.set(i, null);
+        size = 0;
     }
 
     public boolean contains(T data) {
