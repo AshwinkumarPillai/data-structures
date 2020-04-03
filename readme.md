@@ -32,7 +32,7 @@ You need a JDK installed on your local machine (jdk-8 or higher recommended).
 - Queue
   - [Queue using static array](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/Queue.java)
   - [Queue using linked list](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/Queue_using_ll.java)
-  - [Priority Queue using heap](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/PriorityQueue._using_heap.java)
+  - [Priority Queue using heap](https://github.com/AshwinkumarPillai/data-structures/blob/master/queue/PriorityQueue_using_heap.java)
 - Heap
   - [Binary heap (Integer Only)](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap.java)
   - [Binary heap (Generic)](https://github.com/AshwinkumarPillai/data-structures/blob/master/heap/BinaryHeap_generic.java)
