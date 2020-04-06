@@ -40,7 +40,12 @@ You need a JDK installed on your local machine (jdk-8 or higher recommended).
 - [Union Find (with path compression)](https://github.com/AshwinkumarPillai/data-structures/blob/master/union_find/UnionFind.java)
 - Trees
   - [Binary Search Tree](https://github.com/AshwinkumarPillai/data-structures/blob/master/tree/BinarySearchTree.java)
-  
+- HashMap
+  - [Seperate Chaining](https://github.com/AshwinkumarPillai/data-structures/blob/master/hashTables/HashTable_SeperateChaining.java)
+  - [OpenAddressing - Abstract base class](https://github.com/AshwinkumarPillai/data-structures/blob/master/hashTables/HashTable_OpenAddressing.java)
+  - [OpenAdressing - linear Probing](https://github.com/AshwinkumarPillai/data-structures/blob/master/hashTables/HashTable_LinearProbing.java)
+  - [OpenAdressing - Quadratic Probing](https://github.com/AshwinkumarPillai/data-structures/blob/master/hashTables/HashTable_QuadraticProbing.java)
+
 ## Acknowledgement
 
 Inspired by William Fiset.
