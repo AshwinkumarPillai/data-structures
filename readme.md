@@ -46,6 +46,13 @@ You need a JDK installed on your local machine (jdk-8 or higher recommended).
   - [OpenAdressing - linear Probing](https://github.com/AshwinkumarPillai/data-structures/blob/master/hashTables/HashTable_LinearProbing.java)
   - [OpenAdressing - Quadratic Probing](https://github.com/AshwinkumarPillai/data-structures/blob/master/hashTables/HashTable_QuadraticProbing.java)
 
+## Future topics to be added 
+ - Fenwick Tree
+ - Suffix Arrays
+ - LCP Arrays
+ - AVL 
+ - ...
+
 ## Acknowledgement
 
 Inspired by William Fiset.
